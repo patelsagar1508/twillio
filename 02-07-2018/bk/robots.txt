@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /compare/
+Disallow: /dev/
+Disallow: /index1.php/
+
+
+Sitemap: https://www.chiavarichairs.com/sitemap.xml
